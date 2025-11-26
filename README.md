@@ -5,7 +5,7 @@
 
 ## Dataset Directory Structure:
 ```
-/content/dataset/
+Dataset/
 ├── Train/
 │   ├── Real/
 │   └── Fake/
